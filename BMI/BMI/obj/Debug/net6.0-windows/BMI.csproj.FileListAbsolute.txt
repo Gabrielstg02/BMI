@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.exe
+C:\Users\gabri\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.deps.json
+C:\Users\gabri\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.runtimeconfig.json
+C:\Users\gabri\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.dll
+C:\Users\gabri\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.pdb
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.Form1.resources
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfo.cs
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.dll
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\refint\BMI.dll
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.pdb
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.genruntimeconfig.cache
+C:\Users\gabri\source\repos\BMI\BMI\obj\Debug\net6.0-windows\ref\BMI.dll
